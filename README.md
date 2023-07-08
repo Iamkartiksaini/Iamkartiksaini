@@ -26,4 +26,7 @@
 <img src="./icons/Mongodb.svg" alt="MongoDB" tilte="MongoDB" width="40" />
   <img src="./icons/Git.svg" title="Git" **alt="Git" width="40"/>
 </div>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=IamKartiksaini&theme=transparent&hide_border=true&border_radius=5)](https://git.io/streak-stats)
+<div align="center">
+ <br/>
+ <br/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=IamKartiksaini&theme=transparent&hide_border=true&border_radius=14.0&currStreakNum=FFFFFF&background=45%2C2AEB3E6C%2C00FFF1D7&stroke=FFFFFF" /></div>
