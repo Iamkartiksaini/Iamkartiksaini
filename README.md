@@ -24,6 +24,6 @@
   <img src="./icons/Nodejs.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="./icons/Express.svg" alt="express" tilte="express" width="40" />
 <img src="./icons/Mongodb.svg" alt="MongoDB" tilte="MongoDB" width="40" />
-  <img src="./icons/Git.svg" title="Git" **alt="Git" width="40"/>
+  <img src="./icons/Git.svg" title="Git" alt="Git" width="40"/>
 
 </div>
