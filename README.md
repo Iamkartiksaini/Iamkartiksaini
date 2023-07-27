@@ -29,4 +29,4 @@
 <div align="center">
  <br/>
  <br/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=IamKartiksaini&theme=transparent&hide_border=true&border_radius=14.0&currStreakNum=FFFFFF&background=45%2C2AEB3E6C%2C00FFF1D7&stroke=FFFFFF" /></div>
+  <img width="48%" src="https://streak-stats.demolab.com?user=Iamkartiksaini" /></div>
