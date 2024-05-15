@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150" height="auto" style="object-fit :'contain'" >
  <h1 style="color: green"> I am a Full Stack Developer </h1>
 </div>
 
