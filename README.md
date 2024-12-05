@@ -27,4 +27,4 @@
 </div>
  <br/>
  <h3>Contributions:</h3>
-<img  align="center" width="90%" src="https://streak-stats.demolab.com?user=Iamkartiksaini" /></div>
+<img  align="center" width="90%" src="https://streak-stats.demolab.com?user=Iamkartiksaini" alt=""Github Streak /></div>
