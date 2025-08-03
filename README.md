@@ -5,10 +5,10 @@
 </div>
 <div>
  <br/>
-- 🌱 I’m currently learning Next.js<br/><br/>
+- 🌱 Mostly Work with React js | Vite js | Next js <br/><br/>
 - 👯 I’m looking to collaborate on interesting projects which involves MERN stack.<br/><br/>
 - 💬 Ask me about Front End Development.<br/><br/>
-- 📫 How to reach me: mr.kartiksaini23gmail.com<br/><br/>
+- 📫 How to reach me: mr.kartiksaini23@gmail.com<br/><br/>
 </div>
 
 <div>
